@@ -1,0 +1,49 @@
+h1{
+	color:darkseagreen;
+	font-size: 71px;
+	text-align: center;
+}
+
+body{
+	background-color: #FCFBF4;
+	font-family: cursive;
+	margin:0;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	position: relative;
+	top:0;
+	background-color: darkseagreen;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	float: left;
+	text-align:center;
+	padding: 20px;
+	color: white;
+	font-size: 30px;
+}
+
+
+li a:hover{
+	color:skyblue;
+	background-color:white;
+}
+
+img.social:hover{
+	opacity:.50;
+}
+
+
+h3{
+	background-color: #C2DAB8;
+	color: white;
+}
